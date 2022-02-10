@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This application generates a README per user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyAn7/README-Generator.git"
+  },
+  "author": "Andrew An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyAn7/README-Generator/issues"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "homepage": "https://github.com/AndyAn7/README-Generator#readme"
+}
+
