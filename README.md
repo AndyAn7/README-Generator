@@ -14,8 +14,10 @@
 - [License](#license)
 
 ## [Description](#description)
+<a name="description"></a>
 
 ## [UI/Video Tutorial of Application](#tutorial)
+<a name="tutorial"></a>
 
 ## [User Story](#user)
 <a name="user"></a>
