@@ -7,15 +7,54 @@ const rMe = (response) => {
 ## Table of Contents
 -[Description](#description)
 
--[Installation](#installation)
+-[Utility](#usage)
 
 -[Contributors](#contribution)
 
--[Usage](#usage)
-
 -[Inquiries](#inquiries)
+
+-[Installation](#installation)
 
 -[License](#license)
 
+---
+
+## [Description](#description)
+<a name="description"></a>
+${response.description}.
+
+## [Utility](#usage)
+<a name="usage"></a>
+${response.usage}.
+
+## [Contributors](#contribution)
+<a name="contribution"></a>
+${response.contribution}.
+
+## [Application Installation](#installation)
+<a name="installation"></a>
+${response.installation}.
+
+## [Inquiries](#inquiries)
+<a name="inquiries"></a>
+Feel free to inquire in regard to this project:
+
+- [Github Handle: ${response.authorName}](https://github.com/${response.authorName})
+
+- ${response.email}
+
+To become a contributor, contact:
+- ${response.prospect}
+
+## [Installation](#installation)
+<a name="installation"></a>
+${response.installation}
+
+##[License](#license)
+<a name="license"></a>
+${response.license}
+
     `
 }
+
+module.exports = rMe;
