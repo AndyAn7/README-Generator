@@ -6,9 +6,9 @@
 ## Table of Contents
 - [Description](#description)
 
-- [Utility](#usage)
+- [Utility](#utility)
 
-- [Contributors](#contribution)
+- [Contributors](#contributors)
 
 - [Inquiries](#inquiries)
 
@@ -23,12 +23,12 @@
 <a name="description"></a>
 This application will utilize user input in order to markedly display a README.md file for a user's project. The README generated is complete and meets the best-practice standard..
 
-## [Utility](#usage)
+## [Utility](#utility)
 ---
 <a name="usage"></a>
 This program is used to optimize a developer's time by querrying then displaying input within a README.md template.
 
-## [Contributors](#contribution)
+## [Contributors](#contributors)
 ---
 <a name="contribution"></a>
 Andy and Rooh.

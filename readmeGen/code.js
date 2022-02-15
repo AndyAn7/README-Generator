@@ -9,7 +9,7 @@ const rMe = (response) => {
 
 - [Utility](#utility)
 
-- [Contributors](#contributers)
+- [Contributors](#contributors)
 
 - [Inquiries](#inquiries)
 
@@ -29,7 +29,7 @@ ${response.description}.
 <a name="usage"></a>
 ${response.usage}.
 
-## [Contributors](#contributers)
+## [Contributors](#contributors)
 <a name="contribution"></a>
 ${response.contribution}.
 
