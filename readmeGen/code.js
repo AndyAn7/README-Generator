@@ -17,13 +17,15 @@ const rMe = (response) => {
 
 - [License](#license)
 
----
+
 
 ## [Description](#description)
+---
 <a name="description"></a>
 ${response.description}.
 
 ## [Utility](#utility)
+---
 <a name="usage"></a>
 ${response.usage}.
 
