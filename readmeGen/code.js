@@ -5,17 +5,17 @@ const rMe = (response) => {
 [Repository](${response.repo}) | [Domain](${response.app})
 
 ## Table of Contents
--[Description](#description)
+- [Description](#description)
 
--[Utility](#usage)
+- [Utility](#usage)
 
--[Contributors](#contribution)
+- [Contributors](#contribution)
 
--[Inquiries](#inquiries)
+- [Inquiries](#inquiries)
 
--[Installation](#installation)
+- [Installation](#installation)
 
--[License](#license)
+- [License](#license)
 
 ---
 
@@ -39,7 +39,7 @@ ${response.installation}.
 <a name="inquiries"></a>
 Feel free to inquire in regard to this project:
 
-- [Github Handle: ${response.authorName}](https://github.com/${response.authorName})
+- [Github: ${response.authorName}](https://github.com/${response.authorName})
 
 - ${response.email}
 
