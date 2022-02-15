@@ -50,7 +50,7 @@ To become a contributor, contact:
 <a name="installation"></a>
 ${response.installation}
 
-##[License](#license)
+## [License](#license)
 <a name="license"></a>
 ${response.license}
 
