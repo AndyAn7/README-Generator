@@ -1,10 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-
-const readmeGen = ({title, description, installation, usage, license, contributing, questions}) =>
-`
-
-`
+const rMe = require('./code')
 
 inquirer.prompt ([
     {
@@ -62,7 +58,10 @@ inquirer.prompt ([
         message: 'Please enter your contact preference for prospective contributors:',
         name: 'prospect',
     },
-    {
-        
-    },
 ])
+
+.then((response) => {
+    fs.writeFile('README-Generator.md', rMe(response), (err) => {
+        err ? console.log(err) : console.log('Created!')
+    });
+});
