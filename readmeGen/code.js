@@ -7,9 +7,9 @@ const rMe = (response) => {
 ## Table of Contents
 - [Description](#description)
 
-- [Utility](#usage)
+- [Utility](#utility)
 
-- [Contributors](#contribution)
+- [Contributors](#contributers)
 
 - [Inquiries](#inquiries)
 
@@ -23,11 +23,11 @@ const rMe = (response) => {
 <a name="description"></a>
 ${response.description}.
 
-## [Utility](#usage)
+## [Utility](#utility)
 <a name="usage"></a>
 ${response.usage}.
 
-## [Contributors](#contribution)
+## [Contributors](#contributers)
 <a name="contribution"></a>
 ${response.contribution}.
 
