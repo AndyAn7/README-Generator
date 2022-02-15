@@ -20,7 +20,7 @@
 <a name="tutorial"></a>
 
 ## [User Story](#user)
-<a name="user"></a>
+<!-- <a name="user"></a> -->
 ```md
 AS A developer
 I WANT a README generator
