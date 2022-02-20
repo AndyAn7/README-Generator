@@ -1,7 +1,7 @@
 const rMe = (response) => {
     return `
 # ${response.title}\n
-[![License:]]
+[![License: ${response.badge}] (https://img.shields.io/badge/License-${response.badge}-${response.color}.svg)](https://opensource.org/licenses)
 
 [Repository](${response.repo}) | [Domain](${response.app})
 
