@@ -20,8 +20,20 @@ inquirer.prompt ([
     },
     {
         type: 'input',
-        message: 'Which license will be applied to your project?',
+        message: 'Which license will be applied to your project and what content would you like to enter?',
         name: 'license',
+    },
+    {
+        type: 'rawlist',
+        message: 'Choose your license badge',
+        choices:['MIT', 'Apache_2.0', 'BSD_2--Clause', 'BSD_3--Clause'],
+        name: 'badge',
+    },
+    {
+        type: 'rawlist',
+        message: 'Choose your badge color',
+        choices: ['grey', 'orange', 'blue', 'green', 'red',],
+        name: 'color',
     },
     {
         type: 'input',

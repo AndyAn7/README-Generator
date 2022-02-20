@@ -1,6 +1,7 @@
 const rMe = (response) => {
     return `
 # ${response.title}\n
+[![License:]]
 
 [Repository](${response.repo}) | [Domain](${response.app})
 
