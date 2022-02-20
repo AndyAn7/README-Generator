@@ -18,7 +18,7 @@
 
 ## [UI/Video Tutorial of Application](#tutorial)
 <a name="tutorial"></a>
-[![Tutorial](readmeGen\ssMD.png)](https://youtu.be/ZaW9ahEdUG0)
+[![Tutorial](https://github.com/AndyAn7/README-Generator/blob/main/readmeGen/ssMD.png?raw=true)](https://youtu.be/ZaW9ahEdUG0)
 
 ## [User Story](#user)
 <a name="user"></a>
