@@ -15,6 +15,7 @@
 
 ## [Description](#description)
 <a name="description"></a>
+This application will utilize user input in order to markedly display a README.md file for a user's project. The README generated is complete and meets the best-practice standard.
 
 ## [UI/Video Tutorial of Application](#tutorial)
 <a name="tutorial"></a>
