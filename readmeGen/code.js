@@ -72,4 +72,5 @@ ${response.license}
     `
 }
 
+// export file when called e.g. inquirer within index.js
 module.exports = rMe;

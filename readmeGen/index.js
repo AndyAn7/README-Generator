@@ -2,6 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const rMe = require('./code')
 
+// inquirer prompts within terminal
 inquirer.prompt ([
     {
         type: 'input',
@@ -77,6 +78,7 @@ inquirer.prompt ([
     },
 ])
 
+// write to program post user entry via inquirer prompts
 .then((response) => {
     fs.writeFile('README-Generator.md', rMe(response), (err) => {
         err ? console.log(err) : console.log('Created!')
