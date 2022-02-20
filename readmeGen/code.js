@@ -8,6 +8,8 @@ const rMe = (response) => {
 ## Table of Contents
 - [Description](#description)
 
+- [Language](#language)
+
 - [Utility](#utility)
 
 - [Contributors](#contributors)
@@ -24,6 +26,11 @@ const rMe = (response) => {
 ---
 <a name="description"></a>
 ${response.description}.
+
+## [Language Utilized](#language)
+--
+<a name="language"></a>
+${response.language}
 
 ## [Utility](#utility)
 ---

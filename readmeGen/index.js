@@ -15,6 +15,11 @@ inquirer.prompt ([
     },
     {
         type: 'input',
+        message: 'Please state which languages are utilized for this program.',
+        name: 'language',
+    },
+    {
+        type: 'input',
         message: 'How would a user install your program?',
         name: 'installation',
     },
