@@ -28,7 +28,7 @@ const rMe = (response) => {
 ${response.description}.
 
 ## [Language Utilized](#language)
---
+---
 <a name="language"></a>
 ${response.language}
 

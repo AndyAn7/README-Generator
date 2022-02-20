@@ -18,6 +18,7 @@
 
 ## [UI/Video Tutorial of Application](#tutorial)
 <a name="tutorial"></a>
+[![Tutorial](readmeGen\ssMD.png)](https://youtu.be/ZaW9ahEdUG0)
 
 ## [User Story](#user)
 <a name="user"></a>

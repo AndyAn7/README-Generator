@@ -1,12 +1,14 @@
 
 # README-Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses)
 
 [Repository](https://github.com/AndyAn7/README-Generator/blob/main/README.md) | [Domain](https://github.com/AndyAn7/README-Generator/blob/main/readmeGen/README-Generator.md)
 
 ## Table of Contents
 - [Description](#description)
+
+- [Language](#language)
 
 - [Utility](#utility)
 
@@ -23,7 +25,12 @@
 ## [Description](#description)
 ---
 <a name="description"></a>
-This application will utilize user input in order to markedly display a README.md file for a user's project. The README generated is complete and meets the best-practice standard..
+This application will utilize user input in order to markedly display a README.md file for a user's project. The README generated is complete and meets the best-practice standard.....
+
+## [Language Utilized](#language)
+--
+<a name="language"></a>
+JS, Node.js, Inquirer
 
 ## [Utility](#utility)
 ---
@@ -60,12 +67,6 @@ A user must download this repository and execute node index.js within the termin
 ## [License](#license)
 ---
 <a name="license"></a>
-Copyright <2022> <COPYRIGHT>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Enter License
 
     
